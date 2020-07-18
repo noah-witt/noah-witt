@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a Junior Computer Science and Economics Major at Augustana University in Sioux Falls, SD. 
 <!--
 **noah-witt/noah-witt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
