@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Junior Computer Science and Economics Major at Augustana University in Sioux Falls, SD. 
+I am a Junior Computer Science and Economics Major at Augustana University in Sioux Falls, SD. I am looking for an internship for the summer of 2021.
 <!--
 **noah-witt/noah-witt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
